@@ -53,4 +53,7 @@ computer sicense
 |15|[class14b](class14b.md)|
 
 
-
+## Code 301 Reading Notes
+|Number|Read|
+|------|----|
+|1|[class01](301readingnotes/class-01.md)|
