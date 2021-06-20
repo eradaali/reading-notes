@@ -54,6 +54,9 @@ computer sicense
 
 
 ## Code 301 Reading Notes
+
+
+
 |Number|Read|
 |------|----|
-|1|[class01](301readingnotes/class-01.md)|
+|1|[class01](class-01.md)|
