@@ -60,3 +60,4 @@ computer sicense
 |Number|Read|
 |------|----|
 |1|[class01](class-01.md)|
+|2|[class02](class-02.md)|
