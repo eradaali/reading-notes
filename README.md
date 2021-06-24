@@ -62,3 +62,5 @@ computer sicense
 |1|[class01](class-01.md)|
 |2|[class02](class-02.md)|
 |2|[class03](class-03.md)|
+|2|[class04](class-04.md)|
+|2|[class05](class-05.md)|
