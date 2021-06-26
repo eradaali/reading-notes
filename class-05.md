@@ -1,4 +1,4 @@
-## React I want to know more about
+##  I want to know more about React
 
 React is, in our opinion, the premier way to build big, fast Web apps with JavaScript.
 
