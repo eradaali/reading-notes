@@ -64,4 +64,5 @@ computer sicense
 |3|[class03](class-03.md)|
 |4|[class04](class-04.md)|
 |5|[class05](class-05.md)|
-|6|[class05](class-06.md)|
+|6|[class06](class-06.md)|
+|7|[class07](class-07.md)|
