@@ -69,3 +69,4 @@ computer sicense
 |8|[class08](class-08.md)|
 |9|[class09](class-09.md)|
 |10|[class10](class-10.md)|
+|11|[class11](class-11.md)|
